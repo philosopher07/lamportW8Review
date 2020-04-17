@@ -12,5 +12,5 @@ Node/Express/JS/JQ/HTML
 - post & get routes
 - AJAX with get route
 - AJAX POST
-- get everything on DOM 
+- get everything on DOM
 - clean up & styling
